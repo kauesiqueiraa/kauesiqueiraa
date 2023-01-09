@@ -10,7 +10,9 @@
   <a href=https://github.com/kauesiqueiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauesiqueiraa&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=kauesiqueiraa&layout=compact&langs_count=7&theme=redical"/>
+  
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kauesiqueiraa.kauesiqueiraa">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Kaue+)](https://github.com/kauesiqueiraa)
 </div>
 
 <div style="display": inline_block><br>
