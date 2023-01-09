@@ -2,16 +2,15 @@
 
 
 - 🔭 Atualmente estou em busca de uma opoturnidade na área de Desenvolvimento
-- 🌱 Estudando HTML, CSS, Javascript e REACT
-- 💬 Ask me about ...
+- 🌱 Estudando HTML, CSS, Javascript e REACT, NODE JS, PHP e MySQL
 - 📫 Contate-me no email: kauesiqueira_@hotmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div>
   <a href=https://github.com/kauesiqueiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauesiqueiraa&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact)](https://github.com/kauesiqueiraa/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=kauesiqueiraa&layout=compact&langs_count=7&theme=redical"/>
 </div>
 
 <div style="display": inline_block><br>
