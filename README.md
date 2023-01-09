@@ -26,7 +26,7 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/kaue-siqueira-reis-326160192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  <a href="kauesiqueira_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a>
+  <a href="mailto:kauesiqueira_@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a>
   <a href="https://www.instagram.com/kauesiqueiraa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a> 
   <!--<a href="" target="_blank"><img src="" ></a>--!>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
