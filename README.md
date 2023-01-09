@@ -1,18 +1,16 @@
-## Seja bem vindo ao meu GITHUB! Sou o Kaue Siqueira, Muito Prazer! 👋
-
+<!-- ## Seja bem vindo ao meu GITHUB! Sou o Kaue Siqueira, Muito Prazer! 👋 -->
+ 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Seja+bem+vindo+ao+meu+GITHUB!!%F0%9F%91%8B;Eu+sou+o+Kauê+Siqueira!!!)](https://github.com/kauesiqueiraa)
 
 - 🔭 Atualmente estou em busca de uma opoturnidade na área de Desenvolvimento
 - 🌱 Estudando HTML, CSS, Javascript e REACT, NODE JS, PHP e MySQL
 - 📫 Contate-me no email: kauesiqueira_@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href=https://github.com/kauesiqueiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauesiqueiraa&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact&langs_count=7&theme=radical"/>
-  
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kauesiqueiraa.kauesiqueiraa">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Kaue+)](https://github.com/kauesiqueiraa)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 
 <div style="display": inline_block><br>
@@ -33,4 +31,4 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>
 </div>
 
-![Snake animation](https://github.com/kauesiqueiraa/kauesiquieraa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kauesiqueiraa/kauesiquieraa/blob/output/github-contribution-grid-snake.svg)
