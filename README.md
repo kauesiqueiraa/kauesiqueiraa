@@ -3,9 +3,47 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Seja+bem+vindo+ao+meu+GITHUB!!%F0%9F%91%8B;Eu+sou+o+Kauê+Siqueira!!!)](https://github.com/kauesiqueiraa)
 
-- 🔭 Atualmente estou em busca de uma opoturnidade na área de Desenvolvimento
-- 🌱 Estudando HTML, CSS, Javascript e REACT, NODE JS, PHP e MySQL
-- 📫 Contate-me no email: kauesiqueira_@hotmail.com
+Sou um desenvolvedor web apaixonado por criar soluções inovadoras e impactantes. Com uma formação em Ciência da Computação e habilidades em diversas tecnologias, estou sempre em busca de novos desafios para aprimorar minhas habilidades e entregar resultados de alta qualidade.
+
+## Habilidades e Tecnologias
+
+- Linguagens: JavaScript, Python, HTML, CSS, PHP
+- Frameworks: React, Next.js, Django
+- Banco de Dados: MySQL, SQLite, PostgreSQL
+- Ferramentas: Node.js, Git
+
+## Projetos Destacados
+
+### Sistema de Gestão de Relatórios Internos
+
+- Desenvolvimento de um sistema web para gestão de relatórios internos de uma empresa específica.
+- Utilização das tecnologias React, Next.js, Node.js, Prisma, Express e MySQL.
+- Foco em responsividade e usabilidade, garantindo que os funcionários possam gerar relatórios de forma eficiente.
+- Participação tanto no desenvolvimento front-end quanto em partes do back-end.
+
+### Sistema de Pagamentos e Pendências para Escolas
+
+- Colaboração no desenvolvimento de um sistema interno para uma escola, com foco em pagamentos e pendências dos alunos.
+- Utilização das tecnologias Python e Django para criação de uma API RESTful e implementação do CRUD.
+- Participação desde a escolha das tecnologias até a implementação do sistema completo.
+
+### Projetos para Clientes
+
+- Experiência em desenvolvimento de sites, sistemas de chatbot e sistemas de geração de relatórios para clientes em diferentes nichos.
+- Utilização de tecnologias como React, React Native e Node.js para desenvolvimento de soluções personalizadas.
+
+## Formação Acadêmica
+
+- Bacharel em Ciência da Computação, com sólida base em lógica de programação e programação orientada a objetos.
+
+## Contato
+
+- E-mail: kauesiqueira_@hotmail.com
+- LinkedIn: [Kaue Siqueira](https://www.linkedin.com/in/kaue-siqueira/)
+- Website: [Portifólio](https://kauesiqueira.vercel.app/)
+
+Fique à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações interessantes. Vamos construir coisas incríveis juntos!
+
 
 <div>
   <a href=https://github.com/kauesiqueiraa">
