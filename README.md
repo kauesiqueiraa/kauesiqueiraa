@@ -8,9 +8,9 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e impactante
 ## Habilidades e Tecnologias
 
 - Linguagens: JavaScript, Python, HTML, CSS, PHP
-- Frameworks: React, Next.js, Django
+- Frameworks: React, Next.js, Django, Node.js
 - Banco de Dados: MySQL, SQLite, PostgreSQL
-- Ferramentas: Node.js, Git
+- Ferramentas: Git, Docker, Deploy
 
 ## Projetos Destacados
 
