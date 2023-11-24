@@ -2,7 +2,7 @@
  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Seja+bem+vindo+ao+meu+GITHUB!!%F0%9F%91%8B;Eu+sou+o+Kauê+Siqueira!!!)](https://github.com/kauesiqueiraa)
 
-  ### Sou um Dev Full-Stack  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+  ### Sou um Dev Full-Stack  <img src="./assets/image.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
   - 🔰  Sou de Três Corações/MG, Brasil
