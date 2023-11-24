@@ -12,10 +12,8 @@
   - 📝 Em busca de uma oportunidade para crescer,agregar valor e aprender muito mais dentro de uma empresa
   - ✈️ Possibilidade de mudar de cidade
 
-##
 
 ## Possuo conhecimento sobre:
-
 ### Front-end:
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
@@ -70,7 +68,7 @@ Competências: `Desenvolvimento e Estruturação do Projeto`, `Analise de dados`
 <br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
 
 
-#### Formação Acadêmica:
+## Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Unincor" src="https://neora-logo-instituicoes.s3.amazonaws.com/Unincor.png"/>](https://www.unincor.br)
@@ -84,8 +82,9 @@ Bacharel em Ciência da Computação: `Arquitetura de Sistemas`, `Estruturação
 
 Fique à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações interessantes. Vamos construir coisas incríveis juntos!
 
+##
 
-#### Estatísticas:
+### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesiqueiraa&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=kauesiqueiraa&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=kauesiqueiraa&amp;theme=radical"/>](https://github.com/)
