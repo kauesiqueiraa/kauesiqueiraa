@@ -1,5 +1,8 @@
 name: Update GitHub Profile README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"  
